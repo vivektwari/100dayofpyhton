@@ -10,7 +10,7 @@ elif bmi < 25:
   print(f"your bmi is{bmi} you are the man")
 
 elif bmi > 25:
-  print(f"oyurt bmi is {bmi}you are a pig")
+  print(f"your bmi is {bmi}you are a pig")
 
 
 
