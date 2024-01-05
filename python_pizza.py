@@ -8,8 +8,8 @@ elif size == "M":
 else:
   bill += 180
 
-extra_chatni = input("Do you wnat Extra chani? Y or N ") 
-if extra_chatni == "Y":
+extra_chutney = input("Do you wnat Extra chani? Y or N ") 
+if extra_chutney == "Y":
   bill += 5
 
 extra_cheese = input("do you want extar chess? Y or N ")
