@@ -12,7 +12,7 @@ extra_chatni = input("Do you wnat Extra chani? Y or N ")
 if extra_chatni == "Y":
   bill += 5
 
-extra_chess = input("do you want extar chess? Y or N ")
-if extra_chess == "Y":
+extra_cheese = input("do you want extar chess? Y or N ")
+if extra_cheese == "Y":
   bill += 10
 print(f"your bill is {bill}")
