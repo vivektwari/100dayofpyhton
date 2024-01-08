@@ -16,7 +16,8 @@ if hieght >= 120:
   elif age >=18:
     bill = 100
     print("plase pay 100rs ")
-  
+  elif age <=45 and <=55:
+    print("Ist free for you Guys")
   want_photo = input("If want photo? enter Y or N ")
   if want_photo == "Y":
     bill = bill + 10
