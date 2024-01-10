@@ -13,6 +13,8 @@ if hieght >= 120:
   elif age <18:
     bill = 70
     print("plase pay 70rs ")
+  elif age <=45 and <=55:
+    print("Ist free for you Guys")  
   elif age >=18:
     bill = 100
     print("plase pay 100rs ")
